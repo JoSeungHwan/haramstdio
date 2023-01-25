@@ -12,7 +12,7 @@
         <!--View Controller-->
         <scene sceneID="UFn-KM-hsQ">
             <objects>
-                <viewController id="v3f-Cg-UvA" customClass="ViewController" customModule="haramstudio" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="v3f-Cg-UvA" customClass="ViewController" customModule="haramstdio" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="ffq-PQ-Uj0">
                         <rect key="frame" x="0.0" y="0.0" width="393" height="852"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
